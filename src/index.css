@@ -1,0 +1,17 @@
+.card {
+  background-image: url(./assets/img3.jpg);
+  background-size: cover;
+  background-position: center center; 
+  background-repeat: no-repeat; 
+}
+
+*{
+  background-color: rgb(195, 199, 203);
+}
+
+.display{
+  background: transparent;
+  color: rgb(204, 224, 203);
+}
+
+
